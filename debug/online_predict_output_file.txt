@@ -1,0 +1,455 @@
+
+
+----------------->0
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->1
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->2
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->3
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->4
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->5
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->6
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->7
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->8
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->9
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->10
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->11
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->12
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->13
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->14
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->15
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->16
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->17
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->18
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->19
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->20
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->21
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->22
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->23
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->24
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->25
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->26
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->27
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->28
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->29
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->30
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->31
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->32
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->33
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->34
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->35
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->36
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->37
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->38
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->39
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->40
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->41
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->42
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->43
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->44
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->45
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->46
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->47
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->48
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->49
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->50
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->51
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->52
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->53
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->54
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->55
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->56
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->57
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->58
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->59
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->60
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->61
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->62
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->63
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->64
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->65
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->66
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->67
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->68
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->69
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->70
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->71
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->72
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->73
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->74
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->75
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->76
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->77
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->78
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->79
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->80
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->81
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->82
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->83
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->84
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->85
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->86
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->87
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->88
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->89
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
+
+
+----------------->90
+Recv: b' {\n \t"images": [\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-21.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-37.jpg"},\n \t\t{"image" : "/media/siemens/Data/dataset/sjtu/dataset15_extract/predict/0/G-0-98.jpg"}\n \t]\n }\n'
+Send: {"predicts": [{"probility": "0.22156134247779846;0.4214427173137665;0.35699599981307983", "label": "1"}, {"probility": "0.2374405860900879;0.4188331365585327;0.3437263071537018", "label": "1"}, {"probility": "0.25013598799705505;0.3805220127105713;0.36934199929237366", "label": "1"}]}
