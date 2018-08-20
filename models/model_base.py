@@ -11,6 +11,8 @@ from keras.layers import Input
 from keras.optimizers import Adam
 import numpy as np
 from sklearn.externals import joblib
+
+from keras.callbacks import TensorBoard
 import os
 
 from config import config
@@ -132,10 +134,17 @@ class model_base():
         early_stopping = EarlyStopping(verbose=1, patience=patience, monitor=monitor)
         
         #Update: saveAllModelInformation, save_weights_only = False
-        #model_checkpoint = ModelCheckpoint(weights_path, save_best_only=True, save_weights_only=True, monitor=monitor)
+        model_checkpoint = ModelCheckpoint(config.configured_checkpoint_weight, 
+                                           save_best_only=True, 
+                                           save_weights_only=True, 
+                                           monitor = monitor)
         
-#         return [early_stopping, model_checkpoint]
-        return []
+
+        log_dir = config.configured_debug_dir + '/logs'
+        tensorboard = TensorBoard(log_dir = log_dir, write_images = True)
+        
+        return [tensorboard, early_stopping, model_checkpoint]
+        
 
     @staticmethod
     def apply_mean(image_data_generator):

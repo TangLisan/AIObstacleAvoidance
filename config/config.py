@@ -129,6 +129,7 @@ configured_predict_modes    = ['online', 'offline_single', 'offline_group_folder
 configured_date             = ''
 configured_model_weights                    = configured_trained_dir + configured_date +configured_model +'-trained_weight.h5'  #weight file of trained model
 
+configured_checkpoint_weight                = configured_debug_dir + configured_model + 'ep{epoch:03d}-loss{loss:.3f}-val_loss{val_loss:.3f}.h5'
 
 ###############################################################################
 #Configuration with UI and other CPP
